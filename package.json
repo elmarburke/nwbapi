@@ -1,0 +1,17 @@
+{
+  "name": "nwbapi",
+  "version": "0.0.1-beta",
+  "description": "an API for the German traffic enterprise Nordwest Bahn",
+  "main": "index.coffee",
+  "keywords": [
+    "nwb"
+  ],
+  "author": "Elmar Burke",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "~1.6.3",
+    "q": "~0.9.7",
+    "jsdom": "~0.8.4",
+    "request": "~2.27.0"
+  }
+}
