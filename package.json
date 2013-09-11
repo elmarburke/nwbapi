@@ -2,6 +2,7 @@
   "name": "nwbapi",
   "version": "0.0.1-beta",
   "description": "an API for the German traffic enterprise Nordwest Bahn",
+  "repository": "https://github.com:elmarburke/nwb.git",
   "main": "index.coffee",
   "keywords": [
     "nwb"
